@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":null,"properties":{"admNum":0,"admTitle":"Country","LocTitle":"ኢትዮጵያ","date":"2019-08-06T00:00:00.000Z","validOn":"2019-08-27T00:00:00.000Z","validTo":"1899-11-30T00:00:00.000Z"}},
+{"type":"Feature","geometry":null,"properties":{"admNum":1,"admTitle":"Region, Chartered City","LocTitle":"Kilil, Astedader Akabibi","date":"2019-08-06T00:00:00.000Z","validOn":"2019-08-27T00:00:00.000Z","validTo":"1899-11-30T00:00:00.000Z"}},
+{"type":"Feature","geometry":null,"properties":{"admNum":2,"admTitle":"Zone","LocTitle":"ዞን","date":"2019-08-06T00:00:00.000Z","validOn":"2019-08-27T00:00:00.000Z","validTo":"1899-11-30T00:00:00.000Z"}},
+{"type":"Feature","geometry":null,"properties":{"admNum":3,"admTitle":"District","LocTitle":"Woreda","date":"2019-08-06T00:00:00.000Z","validOn":"2019-08-27T00:00:00.000Z","validTo":"1899-11-30T00:00:00.000Z"}}
+]}
