@@ -1,0 +1,986 @@
+,admin1Name_en,admin3Pcode,admin3Name_en,Area_Type
+0,Tigray,ET010101,Tahtay Adiyabo,Deep Rural
+1,Tigray,ET010102,Laelay Adiabo,Deep Rural
+2,Tigray,ET010103,Medebay Zana,Rural
+3,Tigray,ET010104,Tahtay Koraro,Rural
+4,Tigray,ET010105,Asgede Tsimbila,Deep Rural
+5,Tigray,ET010106,Tselemti,Deep Rural
+6,Tigray,ET010107,Sheraro Town,Dense Urban
+7,Tigray,ET010108,Shire,Dense Urban
+8,Tigray,ET010201,Mereb Lehe,Rural
+9,Tigray,ET010202,Aheferom,Rural
+10,Tigray,ET010203,Werei Leke,Rural
+11,Tigray,ET010204,Adwa,Rural
+12,Tigray,ET010205,Laelay Maychew,Rural
+13,Tigray,ET010206,Tahtay Mayechew,Rural
+14,Tigray,ET010207,Naeder Adet,Rural
+15,Tigray,ET010208,Kola Temben,Rural
+16,Tigray,ET010210,Tanqua Abergele,Deep Rural
+17,Tigray,ET010211,Abi Adi Town,Dense Urban
+18,Tigray,ET010212,Adwa Town,Dense Urban
+19,Tigray,ET010213,Axum Town,Dense Urban
+20,Tigray,ET010301,Gulo Mekeda,Rural
+21,Tigray,ET010302,Erob,Deep Rural
+22,Tigray,ET010303,Saesie Tsaedamba,Rural
+23,Tigray,ET010304,Ganta Afeshum,Rural
+24,Tigray,ET010305,Hawzen,Rural
+25,Tigray,ET010306,Kelete Awelallo,Rural
+26,Tigray,ET010307,Atsbi Wenberta,Rural
+27,Tigray,ET010308,Adigrat Town,Dense Urban
+28,Tigray,ET010309,Wukro Town,Dense Urban
+29,Tigray,ET010404,Alage,Rural
+30,Tigray,ET010405,Endamehoni,Rural
+31,Tigray,ET010406,Raya Azebo,Deep Rural
+32,Tigray,ET010407,Alamata,Rural
+33,Tigray,ET010408,Ofla,Rural
+34,Tigray,ET010409,Maychew Town,Dense Urban
+35,Tigray,ET010410,Korem Town,Dense Urban
+36,Tigray,ET010411,Alamata Town,Dense Urban
+37,Tigray,ET010501,Kafta Humera,Deep Rural
+38,Tigray,ET010502,Welkait,Deep Rural
+39,Tigray,ET010503,Tsegede (Tigray),Deep Rural
+40,Tigray,ET010504,Setit Humera,Dense Urban
+41,Tigray,ET010601,Saharti Samre,Deep Rural
+42,Tigray,ET010602,Enderta,Deep Rural
+43,Tigray,ET010603,Hintalo Wajirat,Deep Rural
+44,Tigray,ET010604,Dega Temben,Rural
+45,Tigray,ET011062,Debub & Semen Mekele,Dense Urban
+46,Tigray,ET011063,Kuha,Dense Urban
+47,Tigray,ET011064,Kedamay Weyane,Dense Urban
+48,Tigray,ET011065,Hawelti,Dense Urban
+49,Tigray,ET011066,Hadnet,Dense Urban
+50,Tigray,ET011067,Ayder,Dense Urban
+51,Tigray,ET011068,Adhaki,Dense Urban
+52,Afar,ET020101,Dubti,Deep Rural
+53,Afar,ET020102,Elidar,Deep Rural
+54,Afar,ET020103,Asayita,Deep Rural
+55,Afar,ET020104,Afambo,Deep Rural
+56,Afar,ET020105,Mile,Deep Rural
+57,Afar,ET020106,Chifra,Deep Rural
+58,Afar,ET020107,Dubti Town,Dense Urban
+59,Afar,ET020108,Kurri,Deep Rural
+60,Afar,ET020109,Adaa'r,Deep Rural
+61,Afar,ET020198,Logiya-Semera,Sub-Urban
+62,Afar,ET020201,Erebti,Deep Rural
+63,Afar,ET020202,Kunneba,Rural
+64,Afar,ET020203,Aba 'Ala,Deep Rural
+65,Afar,ET020204,Megale,Deep Rural
+66,Afar,ET020205,Berahile,Deep Rural
+67,Afar,ET020206,Dalol,Deep Rural
+68,Afar,ET020207,Afdera,Deep Rural
+69,Afar,ET020208,Bidu,Deep Rural
+70,Afar,ET020301,Amibara,Deep Rural
+71,Afar,ET020302,Awash Fentale,Deep Rural
+72,Afar,ET020303,Gewane,Deep Rural
+73,Afar,ET020304,Dulecha,Deep Rural
+74,Afar,ET020305,Bure Mudaytu,Deep Rural
+75,Afar,ET020306,Arguba Special,Deep Rural
+76,Afar,ET020396,Awash City,Dense Urban
+77,Afar,ET020401,Awra,Deep Rural
+78,Afar,ET020402,Ewa,Deep Rural
+79,Afar,ET020403,Teru,Deep Rural
+80,Afar,ET020404,Yalo,Deep Rural
+81,Afar,ET020405,Gulina,Deep Rural
+82,Afar,ET020501,Telalak,Deep Rural
+83,Afar,ET020502,Samurobi Gele'alo,Deep Rural
+84,Afar,ET020503,Dewe,Deep Rural
+85,Afar,ET020504,Dalifage,Deep Rural
+86,Afar,ET020505,Hadelela,Deep Rural
+87,Amhara,ET030101,Addi Arekay,Deep Rural
+88,Amhara,ET030102,Beyeda,Rural
+89,Amhara,ET030103,Janamora,Rural
+90,Amhara,ET030104,Debark,Rural
+91,Amhara,ET030105,Dabat,Rural
+92,Amhara,ET030106,Dabat town,Dense Urban
+93,Amhara,ET030119,Telemt,Rural
+94,Amhara,ET030198,Debark Town,Dense Urban
+95,Amhara,ET030201,Ebenat,Rural
+96,Amhara,ET030202,Libokemekem,Sub-Urban
+97,Amhara,ET030203,Fogera,Sub-Urban
+98,Amhara,ET030204,Farta,Sub-Urban
+99,Amhara,ET030205,Lay Gayint,Rural
+100,Amhara,ET030206,Tach Gayint,Rural
+101,Amhara,ET030207,Semada,Rural
+102,Amhara,ET030208,East Esite,Rural
+103,Amhara,ET030209,Dera (Amhara),Rural
+104,Amhara,ET030210,Debre Tabor Town,Urban
+105,Amhara,ET030211,West Esite,Rural
+106,Amhara,ET030212,Guna Begemider,Rural
+107,Amhara,ET030213,Mena Meketewa,Rural
+108,Amhara,ET030214,Sede Muja,Deep Rural
+109,Amhara,ET030215,Nefas Mewcha town,Dense Urban
+110,Amhara,ET030293,Woreta Town,Dense Urban
+111,Amhara,ET030298,Mekan Eyesuse,Urban
+112,Amhara,ET030299,Adisezemen Town,Dense Urban
+113,Amhara,ET030301,Bugna,Deep Rural
+114,Amhara,ET030302,Raya Kobo,Rural
+115,Amhara,ET030303,Gidan,Rural
+116,Amhara,ET030304,Meket,Rural
+117,Amhara,ET030305,Wadla,Rural
+118,Amhara,ET030307,Guba Lafto,Sub-Urban
+119,Amhara,ET030308,Habru,Rural
+120,Amhara,ET030309,Woldiya Town,Dense Urban
+121,Amhara,ET030310,Lasta,Rural
+122,Amhara,ET030311,Dawunt,Rural
+123,Amhara,ET030312,Gazo,Sub-Urban
+124,Amhara,ET030313,Angot,Rural
+125,Amhara,ET030397,Mersa Town,Dense Urban
+126,Amhara,ET030398,Lalibela Town,Dense Urban
+127,Amhara,ET030399,Kobo Town,Dense Urban
+128,Amhara,ET030401,Argoba,Rural
+129,Amhara,ET030402,Tenta,Rural
+130,Amhara,ET030403,Kutaber,Rural
+131,Amhara,ET030404,Ambasel,Rural
+132,Amhara,ET030405,Thehulederie,Sub-Urban
+133,Amhara,ET030406,Delanta,Rural
+134,Amhara,ET030407,Kalu,Sub-Urban
+135,Amhara,ET030408,Albuko,Rural
+136,Amhara,ET030409,Dessie Zuria,Rural
+137,Amhara,ET030410,Legambo,Rural
+138,Amhara,ET030411,Sayint,Rural
+139,Amhara,ET030412,Borena / Debresina,Rural
+140,Amhara,ET030413,Kelela,Rural
+141,Amhara,ET030414,Jama,Rural
+142,Amhara,ET030415,Were Ilu,Rural
+143,Amhara,ET030416,Wegde,Rural
+144,Amhara,ET030417,Kombolcha Town,Dense Urban
+145,Amhara,ET030418,Dessie City Adm.,Dense Urban
+146,Amhara,ET030419,Mehal Sayint,Rural
+147,Amhara,ET030420,Legehida,Rural
+148,Amhara,ET030421,Mekdela,Rural
+149,Amhara,ET030422,Worebabu,Rural
+150,Amhara,ET030423,Wereilu Town,Dense Urban
+151,Amhara,ET030498,Mekane Selame,Dense Urban
+152,Amhara,ET030499,Hike Town,Dense Urban
+153,Amhara,ET030501,Mida Woremo,Rural
+154,Amhara,ET030502,Merhabete,Rural
+155,Amhara,ET030503,Ensaro,Rural
+156,Amhara,ET030504,Moretna Jiru,Rural
+157,Amhara,ET030505,Menze Gera Midir,Rural
+158,Amhara,ET030506,Gishe Rabel,Rural
+159,Amhara,ET030507,Antsokiya,Sub-Urban
+160,Amhara,ET030508,Eferatana Gidem,Sub-Urban
+161,Amhara,ET030509,Menze Mama Midir,Rural
+162,Amhara,ET030510,Tarema Ber,Rural
+163,Amhara,ET030511,Mojan Wedera,Rural
+164,Amhara,ET030512,Kewet,Rural
+165,Amhara,ET030513,Angolelana Tera,Rural
+166,Amhara,ET030514,Assagirt,Rural
+167,Amhara,ET030515,Ankober,Rural
+168,Amhara,ET030516,Hagere Mariam,Deep Rural
+169,Amhara,ET030517,Berehet,Deep Rural
+170,Amhara,ET030518,Minjar Shenkora,Deep Rural
+171,Amhara,ET030519,Basona Worena,Rural
+172,Amhara,ET030520,Debre Berhan Town,Urban
+173,Amhara,ET030521,Menze Keya Gabriel,Rural
+174,Amhara,ET030522,Menze Lalo Midir,Rural
+175,Amhara,ET030523,Siya Debirna Wayu,Rural
+176,Amhara,ET030595,Shoa Robit,Dense Urban
+177,Amhara,ET030597,Mehale Meda Town,Dense Urban
+178,Amhara,ET030598,Ataye Town,Dense Urban
+179,Amhara,ET030599,Aleme Ketma,Dense Urban
+180,Amhara,ET030601,Bibugn,Sub-Urban
+181,Amhara,ET030602,Hulet Ej Enese,Rural
+182,Amhara,ET030603,Goncha Siso Enebse,Sub-Urban
+183,Amhara,ET030604,Enebse Sarmder,Rural
+184,Amhara,ET030605,Enarj Enawga,Sub-Urban
+185,Amhara,ET030606,Enemay,Sub-Urban
+186,Amhara,ET030607,Debay Telatgen,Sub-Urban
+187,Amhara,ET030608,Debre Elias,Deep Rural
+188,Amhara,ET030609,Michakel,Rural
+189,Amhara,ET030610,Guzamn,Rural
+190,Amhara,ET030611,Baso Liben,Rural
+191,Amhara,ET030612,Awabel,Rural
+192,Amhara,ET030613,Dejen,Rural
+193,Amhara,ET030614,Shebel Bernta,Rural
+194,Amhara,ET030615,Debre Markos Town,Dense Urban
+195,Amhara,ET030616,Senan,Sub-Urban
+196,Amhara,ET030617,Aneded,Rural
+197,Amhara,ET030619,Sedae,Rural
+198,Amhara,ET030694,Mota Town,Dense Urban
+199,Amhara,ET030698,Dejen Town,Dense Urban
+200,Amhara,ET030699,Bechena Town,Dense Urban
+201,Amhara,ET030701,Semen Achefer,Rural
+202,Amhara,ET030702,Bahirdar Zuria,Rural
+203,Amhara,ET030703,Yilmana Densa,Sub-Urban
+204,Amhara,ET030704,Mecha,Sub-Urban
+205,Amhara,ET030705,Sekela,Sub-Urban
+206,Amhara,ET030706,Quarit,Sub-Urban
+207,Amhara,ET030707,Dega Damot,Sub-Urban
+208,Amhara,ET030708,Dembecha,Rural
+209,Amhara,ET030709,Jabi Tehnan,Rural
+210,Amhara,ET030710,Bure (Amhara),Rural
+211,Amhara,ET030711,Wemberma,Deep Rural
+212,Amhara,ET030712,Bahir Dar Town,Dense Urban
+213,Amhara,ET030713,Debub Achefer,Rural
+214,Amhara,ET030714,Finote Selam Town,Dense Urban
+215,Amhara,ET030715,Debub Mecha ,Rural
+216,Amhara,ET030717,Denbecha /Town/,Dense Urban
+217,Amhara,ET030718,Gonje,Rural
+218,Amhara,ET030797,Merawi Town,Dense Urban
+219,Amhara,ET030798,Bure Town,Dense Urban
+220,Amhara,ET030799,Adete Town,Dense Urban
+221,Amhara,ET030801,Zequala,Deep Rural
+222,Amhara,ET030802,Sekota,Deep Rural
+223,Amhara,ET030803,Dehana,Deep Rural
+224,Amhara,ET030804,Gaz Gibla,Deep Rural
+225,Amhara,ET030805,Abergele,Deep Rural
+226,Amhara,ET030806,Sahila,Deep Rural
+227,Amhara,ET030807,Sekota Town,Sub-Urban
+228,Amhara,ET030808,Tsegbeji,Deep Rural
+229,Amhara,ET030901,Dangila,Rural
+230,Amhara,ET030902,Banja,Sub-Urban
+231,Amhara,ET030903,Ankasha,Sub-Urban
+232,Amhara,ET030904,Guangua,Deep Rural
+233,Amhara,ET030905,Fagta Lakoma,Sub-Urban
+234,Amhara,ET030906,Jawi,Deep Rural
+235,Amhara,ET030907,Guagusa Shikudad,Sub-Urban
+236,Amhara,ET030908,Ayehu Guwagusa,Sub-Urban
+237,Amhara,ET030996,Injibara Town,Dense Urban
+238,Amhara,ET030997,Zigem,Dense Urban
+239,Amhara,ET030998,Dangila Town,Dense Urban
+240,Amhara,ET030999,Chagni Town,Dense Urban
+241,Amhara,ET031001,Dewa Cheffa,Sub-Urban
+242,Amhara,ET031002,Bati,Deep Rural
+243,Amhara,ET031003,Jilye Tumuga,Rural
+244,Amhara,ET031004,Artuma Fursi,Rural
+245,Amhara,ET031005,Dewa Harewa,Rural
+246,Amhara,ET031006,Kemisie Town,Dense Urban
+247,Amhara,ET031099,Bati Town,Dense Urban
+248,Amhara,ET031106,Chilga1,Deep Rural
+249,Amhara,ET031107,Tsegede (Amhara),Deep Rural
+250,Amhara,ET031108,Lay Armacho,Rural
+251,Amhara,ET031109,Wegera,Sub-Urban
+252,Amhara,ET031110,Gonder Zuria,Sub-Urban
+253,Amhara,ET031111,Dembia,Sub-Urban
+254,Amhara,ET031112,Chilga2,Deep Rural
+255,Amhara,ET031115,Alfa,Rural
+256,Amhara,ET031116,West Belesa,Rural
+257,Amhara,ET031117,East Belesa,Deep Rural
+258,Amhara,ET031118,Gonder City Adm.,Dense Urban
+259,Amhara,ET031120,Tach Armacho,Deep Rural
+260,Amhara,ET031121,Takusa,Deep Rural
+261,Amhara,ET031122,Kinfaz,Deep Rural
+262,Amhara,ET031125,West Dembiya,Rural
+263,Amhara,ET031199,Aykel Town,Dense Urban
+264,Amhara,ET031206,Mirab Armacho,Deep Rural
+265,Amhara,ET031213,Metema,Deep Rural
+266,Amhara,ET031214,Quara,Deep Rural
+267,Amhara,ET031223,Abderafi Town,Dense Urban
+268,Amhara,ET031224,Metema Yohanes Town,Urban
+269,Amhara,ET031292,Gendawuha Town,Dense Urban
+270,Oromia,ET040101,Mana Sibu,Deep Rural
+271,Oromia,ET040102,Nejo,Rural
+272,Oromia,ET040103,Gimbi,Rural
+273,Oromia,ET040104,Lalo Asabi,Sub-Urban
+274,Oromia,ET040105,Kiltu Kara,Rural
+275,Oromia,ET040106,Boji Dirmeji,Rural
+276,Oromia,ET040107,Ayira,Rural
+277,Oromia,ET040108,Jarso (West Wellega),Rural
+278,Oromia,ET040109,Gudetu Kondole,Rural
+279,Oromia,ET040110,Boji Chekorsa,Rural
+280,Oromia,ET040111,Babo,Deep Rural
+281,Oromia,ET040112,Yubdo,Rural
+282,Oromia,ET040113,Gaji,Sub-Urban
+283,Oromia,ET040114,Haru,Sub-Urban
+284,Oromia,ET040115,Nole Kaba,Rural
+285,Oromia,ET040116,Begi,Rural
+286,Oromia,ET040117,Homa,Sub-Urban
+287,Oromia,ET040118,Sayo Nole,Rural
+288,Oromia,ET040119,Guliso,Rural
+289,Oromia,ET040193,Gimbi Town,Dense Urban
+290,Oromia,ET040197,Leta Sibu,Rural
+291,Oromia,ET040198,Mendi Town,Urban
+292,Oromia,ET040199,Nejo Town,Dense Urban
+293,Oromia,ET040201,Limu (Oromia),Deep Rural
+294,Oromia,ET040202,Ibantu,Deep Rural
+295,Oromia,ET040203,Gida Ayana,Deep Rural
+296,Oromia,ET040204,Haro Limu,Deep Rural
+297,Oromia,ET040205,Boneya Boshe,Rural
+298,Oromia,ET040206,Wayu Tuka,Sub-Urban
+299,Oromia,ET040207,Bila Seyo,Rural
+300,Oromia,ET040208,Gobu Seyo,Rural
+301,Oromia,ET040209,Sibu Sire,Rural
+302,Oromia,ET040210,Diga,Rural
+303,Oromia,ET040211,Sasiga,Rural
+304,Oromia,ET040212,Leka Dulecha,Rural
+305,Oromia,ET040213,Guto Gida,Rural
+306,Oromia,ET040214,Jimma Arjo,Rural
+307,Oromia,ET040215,Nunu Kumba,Rural
+308,Oromia,ET040216,Wama Hagalo,Rural
+309,Oromia,ET040217,Kiremu,Deep Rural
+310,Oromia,ET040297,Nekemte Town,Dense Urban
+311,Oromia,ET040301,Darimu,Rural
+312,Oromia,ET040302,Alge Sachi,Rural
+313,Oromia,ET040309,Yayu,Deep Rural
+314,Oromia,ET040310,Metu Zuria,Rural
+315,Oromia,ET040311,Ale,Rural
+316,Oromia,ET040312,Bure (Oromia),Deep Rural
+317,Oromia,ET040313,Sale Nono,Deep Rural
+318,Oromia,ET040314,Becho (Ilu Aba Bora),Deep Rural
+319,Oromia,ET040315,Bilo Nopha,Rural
+320,Oromia,ET040316,Hurumu,Rural
+321,Oromia,ET040317,Didu,Deep Rural
+322,Oromia,ET040319,Halu (Huka),Deep Rural
+323,Oromia,ET040320,Metu Town,Dense Urban
+324,Oromia,ET040324,Dorani,Rural
+325,Oromia,ET040401,Limu Seka,Deep Rural
+326,Oromia,ET040402,Limu Kosa,Rural
+327,Oromia,ET040403,Sekoru,Sub-Urban
+328,Oromia,ET040404,Tiro Afeta,Sub-Urban
+329,Oromia,ET040405,Kersa (Jimma),Sub-Urban
+330,Oromia,ET040406,Mena (Jimma),Sub-Urban
+331,Oromia,ET040407,Goma,Sub-Urban
+332,Oromia,ET040408,Gera,Rural
+333,Oromia,ET040409,Seka Chekorsa,Sub-Urban
+334,Oromia,ET040410,Dedo,Sub-Urban
+335,Oromia,ET040411,Omo Nada,Sub-Urban
+336,Oromia,ET040412,Sigmo,Rural
+337,Oromia,ET040413,Setema,Rural
+338,Oromia,ET040414,Shebe Sambo,Rural
+339,Oromia,ET040415,Chora (Jimma),Rural
+340,Oromia,ET040416,Gumay,Sub-Urban
+341,Oromia,ET040417,Agaro Town,Dense Urban
+342,Oromia,ET040418,Jimma/Town/,Dense Urban
+343,Oromia,ET040490,Mancho,Sub-Urban
+344,Oromia,ET040491,Omo Beyam,Rural
+345,Oromia,ET040495,Botor Tolay,Deep Rural
+346,Oromia,ET040499,Nono Benja,Rural
+347,Oromia,ET040500,Illu Galan,Sub-Urban
+348,Oromia,ET040501,Ginde Beret,Rural
+349,Oromia,ET040502,Jeldu,Sub-Urban
+350,Oromia,ET040503,Ambo Zuria,Rural
+351,Oromia,ET040504,Mida Kegn,Rural
+352,Oromia,ET040505,Cheliya,Sub-Urban
+353,Oromia,ET040506,Bako Tibe,Sub-Urban
+354,Oromia,ET040507,Dano,Sub-Urban
+355,Oromia,ET040508,Nono,Rural
+356,Oromia,ET040509,Tikur Enchini,Sub-Urban
+357,Oromia,ET040510,Dendi,Sub-Urban
+358,Oromia,ET040511,Ejere (Addis Alem),Sub-Urban
+359,Oromia,ET040513,Adda Berga,Rural
+360,Oromia,ET040514,Meta Robi,Sub-Urban
+361,Oromia,ET040515,Ambo Town,Dense Urban
+362,Oromia,ET040516,Abuna G/Beret,Rural
+363,Oromia,ET040517,Toke Kutaye,Sub-Urban
+364,Oromia,ET040518,Jibat,Rural
+365,Oromia,ET040519,Ifata,Rural
+366,Oromia,ET040590,Ejersa Lafo,Sub-Urban
+367,Oromia,ET040592,Cobi,Rural
+368,Oromia,ET040594,Meta Walkite,Rural
+369,Oromia,ET040597,Liban Jawi,Sub-Urban
+370,Oromia,ET040601,Wara Jarso,Rural
+371,Oromia,ET040602,Dera (Oromia),Rural
+372,Oromia,ET040603,Hidabu Abote,Sub-Urban
+373,Oromia,ET040604,Kuyu,Rural
+374,Oromia,ET040605,Degem,Sub-Urban
+375,Oromia,ET040606,Gerar Jarso,Rural
+376,Oromia,ET040607,Debre Libanos,Sub-Urban
+377,Oromia,ET040608,Wuchale,Rural
+378,Oromia,ET040609,Abichugna Gne'a,Rural
+379,Oromia,ET040610,Kimbibit,Rural
+380,Oromia,ET040613,Fiche Town,Dense Urban
+381,Oromia,ET040614,Yaya Gulele,Sub-Urban
+382,Oromia,ET040615,Jida,Rural
+383,Oromia,ET040617,Aleltu,Rural
+384,Oromia,ET040701,Fentale,Deep Rural
+385,Oromia,ET040702,Boset,Rural
+386,Oromia,ET040703,Adama,Sub-Urban
+387,Oromia,ET040704,Lome (Oromia),Rural
+388,Oromia,ET040705,Gimbichu,Rural
+389,Oromia,ET040706,Ada'a,Sub-Urban
+390,Oromia,ET040707,Dugda,Sub-Urban
+391,Oromia,ET040708,Adama Tulu Jido Kombolcha,Rural
+392,Oromia,ET040709,Bishoftu Town,Urban
+393,Oromia,ET040710,Bora,Rural
+394,Oromia,ET040711,Liben Chukala,Rural
+395,Oromia,ET040714,Adama Town,Dense Urban
+396,Oromia,ET040797,Mojo Town,Dense Urban
+397,Oromia,ET040799,Metehara Town,Dense Urban
+398,Oromia,ET040801,Merti,Rural
+399,Oromia,ET040802,Aseko,Sub-Urban
+400,Oromia,ET040803,Golocha,Rural
+401,Oromia,ET040804,Jeju,Rural
+402,Oromia,ET040805,Dodota,Rural
+403,Oromia,ET040806,Ziway Dugda,Rural
+404,Oromia,ET040807,Hitosa,Sub-Urban
+405,Oromia,ET040808,Sude,Rural
+406,Oromia,ET040809,Chole,Sub-Urban
+407,Oromia,ET040810,Amigna,Deep Rural
+408,Oromia,ET040811,Seru,Deep Rural
+409,Oromia,ET040812,Robe,Rural
+410,Oromia,ET040813,Tena,Sub-Urban
+411,Oromia,ET040814,Shirka,Sub-Urban
+412,Oromia,ET040815,Degeluna Tijo,Sub-Urban
+413,Oromia,ET040816,Tiyo,Sub-Urban
+414,Oromia,ET040817,Munessa,Sub-Urban
+415,Oromia,ET040818,Limu Bilbilo,Rural
+416,Oromia,ET040819,Guna,Sub-Urban
+417,Oromia,ET040820,Sire,Sub-Urban
+418,Oromia,ET040821,Lude Hitosa,Sub-Urban
+419,Oromia,ET040822,Diksis,Sub-Urban
+420,Oromia,ET040823,Bele Gesgar,Rural
+421,Oromia,ET040824,Inkolo Wabe,Sub-Urban
+422,Oromia,ET040825,Asela Town,Dense Urban
+423,Oromia,ET040893,Shanan Kolu,Rural
+424,Oromia,ET040894,Bekoji Town,Dense Urban
+425,Oromia,ET040901,Mieso,Deep Rural
+426,Oromia,ET040902,Doba,Sub-Urban
+427,Oromia,ET040903,Tulo (Oromia),Sub-Urban
+428,Oromia,ET040904,Mesela,Sub-Urban
+429,Oromia,ET040905,Chiro Town,Dense Urban
+430,Oromia,ET040906,Anchar,Rural
+431,Oromia,ET040907,Goba Koricha,Sub-Urban
+432,Oromia,ET040908,Habro,Sub-Urban
+433,Oromia,ET040909,Daro Lebu,Rural
+434,Oromia,ET040910,Boke,Rural
+435,Oromia,ET040911,Kuni,Rural
+436,Oromia,ET040912,Gemechis,Sub-Urban
+437,Oromia,ET040913,Chiro Zuria,Sub-Urban
+438,Oromia,ET040914,Bedesa,Dense Urban
+439,Oromia,ET040915,"Hawi Gudina
+",Deep Rural
+440,Oromia,ET040991,Gumbi Bordede,Deep Rural
+441,Oromia,ET040998,Burqua Dhintu,Deep Rural
+442,Oromia,ET041000,Babile Town,Dense Urban
+443,Oromia,ET041001,Kombolcha,Urban
+444,Oromia,ET041002,Jarso (East Hararghe),Sub-Urban
+445,Oromia,ET041003,Gursum (Oromia),Sub-Urban
+446,Oromia,ET041004,Babile (Oromia),Deep Rural
+447,Oromia,ET041005,Fedis,Sub-Urban
+448,Oromia,ET041006,Haro Maya,Urban
+449,Oromia,ET041007,Kurfa Chele,Sub-Urban
+450,Oromia,ET041008,Kersa (East Hararge),Urban
+451,Oromia,ET041009,Meta,Urban
+452,Oromia,ET041010,Goro Gutu,Sub-Urban
+453,Oromia,ET041011,Deder,Sub-Urban
+454,Oromia,ET041012,Melka Balo,Rural
+455,Oromia,ET041013,Bedeno,Sub-Urban
+456,Oromia,ET041014,Midhaga Tola,Deep Rural
+457,Oromia,ET041015,Chinaksen,Deep Rural
+458,Oromia,ET041016,Girawa,Sub-Urban
+459,Oromia,ET041017,Golo Oda,Deep Rural
+460,Oromia,ET041018,Meyu Muleke,Deep Rural
+461,Oromia,ET041019,Haromaya Town,Dense Urban
+462,Oromia,ET041089,Goro Muti,Urban
+463,Oromia,ET041097,Deder Town,Dense Urban
+464,Oromia,ET041098,Kumbi,Deep Rural
+465,Oromia,ET041099,Aweday Town,Sub-Urban
+466,Oromia,ET041104,Agarfa,Rural
+467,Oromia,ET041105,Gololcha Bale,Deep Rural
+468,Oromia,ET041106,Gasera,Deep Rural
+469,Oromia,ET041107,Lege Hida,Deep Rural
+470,Oromia,ET041108,Ginir,Deep Rural
+471,Oromia,ET041109,Sinana,Rural
+472,Oromia,ET041110,Goba,Deep Rural
+473,Oromia,ET041111,Harena Buluk,Deep Rural
+474,Oromia,ET041112,Mena (Bale),Deep Rural
+475,Oromia,ET041113,Meda Welabu,Deep Rural
+476,Oromia,ET041114,Berbere,Deep Rural
+477,Oromia,ET041115,Gura Damole,Deep Rural
+478,Oromia,ET041116,Goro (Bale),Deep Rural
+479,Oromia,ET041117,Rayitu,Deep Rural
+480,Oromia,ET041118,Seweyna,Deep Rural
+481,Oromia,ET041119,Robe Town,Dense Urban
+482,Oromia,ET041120,Goba Town,Dense Urban
+483,Oromia,ET041121,Dawe Ketchen,Deep Rural
+484,Oromia,ET041122,Dinsho,Deep Rural
+485,Oromia,ET041198,Ginir Town,Urban
+486,Oromia,ET041198,Ginir Town,Deep Rural
+487,Oromia,ET041199,Dawe Serer,Deep Rural
+488,Oromia,ET041207,Yabelo,Deep Rural
+489,Oromia,ET041208,Arero,Deep Rural
+490,Oromia,ET041210,Moyale (Oromia),Deep Rural
+491,Oromia,ET041211,Dire,Deep Rural
+492,Oromia,ET041212,Teltale,Deep Rural
+493,Oromia,ET041216,Miyo,Deep Rural
+494,Oromia,ET041219,Dilo,Deep Rural
+495,Oromia,ET041220,Dhas,Deep Rural
+496,Oromia,ET041223,Gomole,Deep Rural
+497,Oromia,ET041290,Guchi,Deep Rural
+498,Oromia,ET041291,Dubluk,Deep Rural
+499,Oromia,ET041295,Elwaya,Deep Rural
+500,Oromia,ET041296,Yabelo Town,Dense Urban
+501,Oromia,ET041298,Wachile,Deep Rural
+502,Oromia,ET041301,Ameya,Rural
+503,Oromia,ET041302,Wenchi,Sub-Urban
+504,Oromia,ET041303,Waliso,Sub-Urban
+505,Oromia,ET041304,Dawo,Sub-Urban
+506,Oromia,ET041305,Ilu,Sub-Urban
+507,Oromia,ET041307,Kersana Malima,Rural
+508,Oromia,ET041308,Tole,Sub-Urban
+509,Oromia,ET041309,Becho (SW Shewa),Sub-Urban
+510,Oromia,ET041310,Seden Sodo,Rural
+511,Oromia,ET041311,Woliso Town,Dense Urban
+512,Oromia,ET041312,Goro (SW Shewa),Rural
+513,Oromia,ET041314,Sodo Daci,Rural
+514,Oromia,ET041401,Uraga,Sub-Urban
+515,Oromia,ET041402,Bore,Sub-Urban
+516,Oromia,ET041403,Adola,Rural
+517,Oromia,ET041404,Wadera,Deep Rural
+518,Oromia,ET041405,Odo Shakiso,Rural
+519,Oromia,ET041407,Liben,Deep Rural
+520,Oromia,ET041408,Afele Kola (Dima),Sub-Urban
+521,Oromia,ET041410,Girja (Harenfema),Deep Rural
+522,Oromia,ET041411,Ana Sora,Rural
+523,Oromia,ET041412,Saba Boru,Deep Rural
+524,Oromia,ET041413,Gora Dola,Deep Rural
+525,Oromia,ET041414,Negele /Town/,Dense Urban
+526,Oromia,ET041482,Aga Wayu,Deep Rural
+527,Oromia,ET041490,Haro Walabu,Sub-Urban
+528,Oromia,ET041492,Adola Town,Dense Urban
+529,Oromia,ET041497,Gumi Idalo,Deep Rural
+530,Oromia,ET041499,Shakiso Town,Dense Urban
+531,Oromia,ET041501,Bule Hora,Sub-Urban
+532,Oromia,ET041502,Kercha,Sub-Urban
+533,Oromia,ET041509,Hambela Wamena,Sub-Urban
+534,Oromia,ET041513,Abaya,Deep Rural
+535,Oromia,ET041515,Dugda Dawa,Deep Rural
+536,Oromia,ET041517,Gelana (West Guji),Deep Rural
+537,Oromia,ET041518,Melka Soda,Deep Rural
+538,Oromia,ET041587,Bule Hora Town,Dense Urban
+539,Oromia,ET041594,Suro Berguda,Deep Rural
+540,Oromia,ET041596,Birbirsa Kojowa,Sub-Urban
+541,Oromia,ET041603,Chora (Buno Bedele),Rural
+542,Oromia,ET041604,Dega,Rural
+543,Oromia,ET041605,Dabo Hana,Deep Rural
+544,Oromia,ET041606,Gechi,Rural
+545,Oromia,ET041607,Borecha,Rural
+546,Oromia,ET041608,Dedesa,Rural
+547,Oromia,ET041618,Meko,Deep Rural
+548,Oromia,ET041621,Bedele Town,Dense Urban
+549,Oromia,ET041622,Badele Zuria,Rural
+550,Oromia,ET041623,Chwaka,Rural
+551,Oromia,ET041700,Dodola Town,Dense Urban
+552,Oromia,ET041701,Siraro,Sub-Urban
+553,Oromia,ET041702,Shala,Sub-Urban
+554,Oromia,ET041703,Arsi Negele,Rural
+555,Oromia,ET041704,Kofele,Sub-Urban
+556,Oromia,ET041705,Kore,Sub-Urban
+557,Oromia,ET041706,Gedeb Asasa,Sub-Urban
+558,Oromia,ET041707,Dodola,Rural
+559,Oromia,ET041708,Kokosa,Sub-Urban
+560,Oromia,ET041709,Nenesebo (Wereka),Deep Rural
+561,Oromia,ET041710,Adaba,Deep Rural
+562,Oromia,ET041711,Shashemene Town,Dense Urban
+563,Oromia,ET041712,Shashemene Zuria,Sub-Urban
+564,Oromia,ET041783,Heban Arsi,Rural
+565,Oromia,ET041797,Wondo,Dense Urban
+566,Oromia,ET041798,Bishan Guracha,Urban
+567,Oromia,ET041799,Arsi Negele Town,Dense Urban
+568,Oromia,ET041801,Hawa Galan,Rural
+569,Oromia,ET041802,Yama Logi Welel,Rural
+570,Oromia,ET041803,Dale Wabera,Sub-Urban
+571,Oromia,ET041804,Gawo Kebe,Deep Rural
+572,Oromia,ET041805,Sayo,Rural
+573,Oromia,ET041806,Denbi Dollo Town,Dense Urban
+574,Oromia,ET041807,Anfilo,Deep Rural
+575,Oromia,ET041808,Dale Sadi,Rural
+576,Oromia,ET041809,Gidami,Deep Rural
+577,Oromia,ET041810,Jimma Horo,Rural
+578,Oromia,ET041811,Lalo Kile,Rural
+579,Oromia,ET041812,Sedi Chenka,Rural
+580,Oromia,ET041901,Horo,Rural
+581,Oromia,ET041902,Shambu Town,Dense Urban
+582,Oromia,ET041903,Guduru,Rural
+583,Oromia,ET041904,Ababo,Deep Rural
+584,Oromia,ET041905,Abay Chomen,Deep Rural
+585,Oromia,ET041906,Jimma Genete,Sub-Urban
+586,Oromia,ET041907,Jimma Rare,Sub-Urban
+587,Oromia,ET041908,Jarte Jardega,Deep Rural
+588,Oromia,ET041909,Amuru,Deep Rural
+589,Oromia,ET041910,Abe Dongoro,Deep Rural
+590,Oromia,ET041911,Choman Guduru,Rural
+591,Oromia,ET041912,Horo Buluk,Rural
+592,Oromia,ET042001,Burayu,Dense Urban
+593,Oromia,ET042004,Lege tafo-Lege Dadi Town,Urban
+594,Oromia,ET042005,Sululta Town,Dense Urban
+595,Oromia,ET042006,Sebeta Hawas,Rural
+596,Oromia,ET042008,Dukem,Dense Urban
+597,Oromia,ET042009,Sebeta /Town/ ,Dense Urban
+598,Oromia,ET042011,Bereh,Rural
+599,Oromia,ET042012,Akaki,Rural
+600,Oromia,ET042013,Sululta,Rural
+601,Oromia,ET042014,Welmera,Rural
+602,Oromia,ET042016,Mulo,Rural
+603,Oromia,ET042018,Sendafa Town,Dense Urban
+604,Oromia,ET042020,Holeta Town,Dense Urban
+605,Oromia,ET042098,Gelana (Finfine),Sub-Urban
+606,Somali,ET050101,Ayisha,Deep Rural
+607,Somali,ET050102,Dembel,Deep Rural
+608,Somali,ET050103,Shinile,Deep Rural
+609,Somali,ET050104,Erer (Somali),Deep Rural
+610,Somali,ET050105,Afdem,Deep Rural
+611,Somali,ET050106,Hadhagala,Deep Rural
+612,Somali,ET050107,Miesso,Rural
+613,Somali,ET050198,Gota-biki,Deep Rural
+614,Somali,ET050199,Gablalu,Deep Rural
+615,Somali,ET050202,Gursum (Somali),Rural
+616,Somali,ET050203,Babile (Somali),Sub-Urban
+617,Somali,ET050204,Shabeeley,Deep Rural
+618,Somali,ET050205,Aw-bare,Rural
+619,Somali,ET050206,Kebribeyah,Deep Rural
+620,Somali,ET050207,Harshin,Deep Rural
+621,Somali,ET050283,Tuliguled,Rural
+622,Somali,ET050290,Goljano,Deep Rural
+623,Somali,ET050293,Jigjiga City,Urban
+624,Somali,ET050295,Wajale City,Sub-Urban
+625,Somali,ET050296,Kebribayah City,Urban
+626,Somali,ET050297,Koran/Mula,Deep Rural
+627,Somali,ET050298,Haroreys,Deep Rural
+628,Somali,ET050299,Harawo,Deep Rural
+629,Somali,ET050301,Degehamedo,Deep Rural
+630,Somali,ET050302,Degehabur,Deep Rural
+631,Somali,ET050303,Aware,Deep Rural
+632,Somali,ET050304,Gashamo,Deep Rural
+633,Somali,ET050305,Gunagado,Deep Rural
+634,Somali,ET050306,Bilcil-bur,Deep Rural
+635,Somali,ET050307,Degahabur City ,Rural
+636,Somali,ET050382,Yocale,Deep Rural
+637,Somali,ET050392,Daror,Deep Rural
+638,Somali,ET050394,Burqod,Deep Rural
+639,Somali,ET050395,Ararso,Deep Rural
+640,Somali,ET050399,Dig,Deep Rural
+641,Somali,ET050402,Fik,Deep Rural
+642,Somali,ET050404,Hamero,Deep Rural
+643,Somali,ET050407,Lagahida,Deep Rural
+644,Somali,ET050408,Meyumuluka,Deep Rural
+645,Somali,ET050497,Qubi,Deep Rural
+646,Somali,ET050498,Yahob,Deep Rural
+647,Somali,ET050499,Wangay,Deep Rural
+648,Somali,ET050501,Shekosh,Deep Rural
+649,Somali,ET050502,Kebridehar,Deep Rural
+650,Somali,ET050503,Shilabo,Deep Rural
+651,Somali,ET050504,Debeweyin,Deep Rural
+652,Somali,ET050586,Marsin ,Deep Rural
+653,Somali,ET050592,Kebridehar City ,Sub-Urban
+654,Somali,ET050595,Kudunbur,Deep Rural
+655,Somali,ET050596,Lasdhankayre,Deep Rural
+656,Somali,ET050597,Higloley ,Deep Rural
+657,Somali,ET050598,El-Ogaden,Deep Rural
+658,Somali,ET050599,Bodaley ,Deep Rural
+659,Somali,ET050601,East Imi,Deep Rural
+660,Somali,ET050602,Adadle,Deep Rural
+661,Somali,ET050603,Danan,Deep Rural
+662,Somali,ET050604,Gode,Deep Rural
+663,Somali,ET050605,Kelafo,Deep Rural
+664,Somali,ET050606,Mustahil,Deep Rural
+665,Somali,ET050607,Ferfer,Deep Rural
+666,Somali,ET050608,Berocano,Deep Rural
+667,Somali,ET050696,Godey City,Urban
+668,Somali,ET050698,Elale,Deep Rural
+669,Somali,ET050699,Aba-korow,Deep Rural
+670,Somali,ET050701,Danod,Deep Rural
+671,Somali,ET050702,Bokh,Deep Rural
+672,Somali,ET050703,Galadi,Deep Rural
+673,Somali,ET050704,Warder,Deep Rural
+674,Somali,ET050788,Daratole,Deep Rural
+675,Somali,ET050798,Lehel-Yucub,Deep Rural
+676,Somali,ET050799,Galhamur,Deep Rural
+677,Somali,ET050802,Charati/Weyib,Deep Rural
+678,Somali,ET050804,Elkare/Serer,Deep Rural
+679,Somali,ET050805,West Imi,Deep Rural
+680,Somali,ET050806,Hargele,Deep Rural
+681,Somali,ET050807,Barey,Deep Rural
+682,Somali,ET050808,Dolobay,Deep Rural
+683,Somali,ET050809,Raso,Rural
+684,Somali,ET050898,Kohle/Qoxle,Deep Rural
+685,Somali,ET050899,God-god,Deep Rural
+686,Somali,ET050901,Filtu,Deep Rural
+687,Somali,ET050902,Dolo Odo,Deep Rural
+688,Somali,ET050903,Goro Baqaqsa,Deep Rural
+689,Somali,ET050904,Guradamole,Deep Rural
+690,Somali,ET050905,Qarsadula ,Deep Rural
+691,Somali,ET050991,Deka suftu,Deep Rural
+692,Somali,ET050999,Bokolmayo,Deep Rural
+693,Somali,ET051001,Ayun,Deep Rural
+694,Somali,ET051002,Elwayne,Deep Rural
+695,Somali,ET051003,Garbo,Deep Rural
+696,Somali,ET051004,Selahad,Sub-Urban
+697,Somali,ET051005,Sagag,Deep Rural
+698,Somali,ET051006,Dihun,Deep Rural
+699,Somali,ET051095,Horshagah,Deep Rural
+700,Somali,ET051096,Hararey,Deep Rural
+701,Somali,ET051103,Moyale (Somali),Rural
+702,Somali,ET051104,Hudet,Deep Rural
+703,Somali,ET051187,Mubarek ,Deep Rural
+704,Somali,ET051198,Qada Duma,Deep Rural
+705,Benishangul Gumz,ET060201,Dangura,Deep Rural
+706,Benishangul Gumz,ET060202,Guba,Deep Rural
+707,Benishangul Gumz,ET060203,Wenbera,Deep Rural
+708,Benishangul Gumz,ET060204,Mandura,Deep Rural
+709,Benishangul Gumz,ET060205,Debati,Deep Rural
+710,Benishangul Gumz,ET060206,Pawe,Rural
+711,Benishangul Gumz,ET060207,Bulen,Deep Rural
+712,Benishangul Gumz,ET060301,Menge,Deep Rural
+713,Benishangul Gumz,ET060302,Kurmuk,Deep Rural
+714,Benishangul Gumz,ET060303,Assosa,Deep Rural
+715,Benishangul Gumz,ET060304,Sherkole,Deep Rural
+716,Benishangul Gumz,ET060305,Bambasi,Deep Rural
+717,Benishangul Gumz,ET060306,Oda Bilidigilu,Deep Rural
+718,Benishangul Gumz,ET060307,Homosha,Deep Rural
+719,Benishangul Gumz,ET060401,Yaso,Deep Rural
+720,Benishangul Gumz,ET060402,Sodal/Sirba Abay,Deep Rural
+721,Benishangul Gumz,ET060403,Kamashi,Deep Rural
+722,Benishangul Gumz,ET060404,Agalometi,Deep Rural
+723,Benishangul Gumz,ET060405,Belojiganfo,Deep Rural
+724,Benishangul Gumz,ET060508,Maokomo Special,Deep Rural
+725,SNNP,ET070101,Kebena,Sub-Urban
+726,SNNP,ET070102,Abeshege,Rural
+727,SNNP,ET070103,Ezha,Sub-Urban
+728,SNNP,ET070104,Gedebano Gutazer Welene,Sub-Urban
+729,SNNP,ET070105,Sodo,Sub-Urban
+730,SNNP,ET070106,Meskan,Sub-Urban
+731,SNNP,ET070107,Mareko,Sub-Urban
+732,SNNP,ET070108,Endiguagn,Sub-Urban
+733,SNNP,ET070109,Gumer,Sub-Urban
+734,SNNP,ET070110,Cheha,Urban
+735,SNNP,ET070111,Enemorina Eaner,Sub-Urban
+736,SNNP,ET070112,Muhur Na Aklil,Sub-Urban
+737,SNNP,ET070113,Geta,Sub-Urban
+738,SNNP,ET070114,Welkite Town,Dense Urban
+739,SNNP,ET070115,Butajira Town,Dense Urban
+740,SNNP,ET070116,Emdebir City Admin,Urban
+741,SNNP,ET070117,Bui Town Admin,Dense Urban
+742,SNNP,ET070118,Areket Town,Urban
+743,SNNP,ET070201,Misha,Urban
+744,SNNP,ET070202,Gombora,Sub-Urban
+745,SNNP,ET070203,Limu (SNNP),Sub-Urban
+746,SNNP,ET070204,Shashogo,Sub-Urban
+747,SNNP,ET070205,Misrak Badawacho,Urban
+748,SNNP,ET070206,Soro,Sub-Urban
+749,SNNP,ET070207,Dune,Urban
+750,SNNP,ET070208,Analemmo,Sub-Urban
+751,SNNP,ET070209,Mirab Badowach,Urban
+752,SNNP,ET070210,Gibe,Sub-Urban
+753,SNNP,ET070211,Hosaena Town,Dense Urban
+754,SNNP,ET070212,Shone Town,Dense Urban
+755,SNNP,ET070213,Gimbichu Town,Dense Urban
+756,SNNP,ET070214,Jajura City Admin,Dense Urban
+757,SNNP,ET070301,Tembaro,Sub-Urban
+758,SNNP,ET070302,Anigacha,Urban
+759,SNNP,ET070303,Kediada Gambela,Sub-Urban
+760,SNNP,ET070304,Kacha Bira,Urban
+761,SNNP,ET070305,Hadero Tunto,Urban
+762,SNNP,ET070306,Doya Gena,Urban
+763,SNNP,ET070307,Damboya,Urban
+764,SNNP,ET070308,Durame Town,Dense Urban
+765,SNNP,ET070310,Shinshecho Town,Dense Urban
+766,SNNP,ET070401,Shebe Dino,Urban
+767,SNNP,ET070402,Hawassa Zuria,Sub-Urban
+768,SNNP,ET070403,Arbe Gonna,Urban
+769,SNNP,ET070404,Dale,Dense Urban
+770,SNNP,ET070405,Aleta Wendo,Urban
+771,SNNP,ET070406,Dara,Urban
+772,SNNP,ET070407,Hulla,Urban
+773,SNNP,ET070408,Bensa,Sub-Urban
+774,SNNP,ET070409,Aroresa,Sub-Urban
+775,SNNP,ET070410,Boricha,Urban
+776,SNNP,ET070411,Gorche,Urban
+777,SNNP,ET070412,Malga,Urban
+778,SNNP,ET070413,Wonosho,Urban
+779,SNNP,ET070414,Loka Abaya,Rural
+780,SNNP,ET070415,Chire,Sub-Urban
+781,SNNP,ET070416,Bursa,Urban
+782,SNNP,ET070417,Chuko,Urban
+783,SNNP,ET070418,Bona Zuria,Urban
+784,SNNP,ET070419,Hawasa Town,Dense Urban
+785,SNNP,ET070420,Wondo-Genet,Urban
+786,SNNP,ET070421,Tula Town,Urban
+787,SNNP,ET070422,Yirgalem Town Adm.,Dense Urban
+788,SNNP,ET070423,Aleta Wondo Town,Dense Urban
+789,SNNP,ET070424,Leku Town Administration,Dense Urban
+790,SNNP,ET070425,Hawela,Sub-Urban
+791,SNNP,ET070426,Bura,Urban
+792,SNNP,ET070427,Dara Otilicho,Urban
+793,SNNP,ET070428,Teticha,Sub-Urban
+794,SNNP,ET070429,Chirone,Sub-Urban
+795,SNNP,ET070430,Shafamo,Urban
+796,SNNP,ET070431,Chabe Gambeltu,Sub-Urban
+797,SNNP,ET070432,Daye Town Administration,Dense Urban
+798,SNNP,ET070433,Hokko,Sub-Urban
+799,SNNP,ET070434,Bilate Zuria,Urban
+800,SNNP,ET070435,Darara,Urban
+801,SNNP,ET070436,Daella,Urban
+802,SNNP,ET070437,Chuko Town,Dense Urban
+803,SNNP,ET070438,Wondo-Genet Town,Dense Urban
+804,SNNP,ET070501,Wenago,Dense Urban
+805,SNNP,ET070502,Yirgachefe,Urban
+806,SNNP,ET070503,Kochere,Urban
+807,SNNP,ET070504,Bule,Urban
+808,SNNP,ET070505,Dila Zuria,Dense Urban
+809,SNNP,ET070506,Gedeb,Urban
+810,SNNP,ET070507,Dila City Admin,Dense Urban
+811,SNNP,ET070508,Chelelektu Town,Dense Urban
+812,SNNP,ET070509,Rape,Urban
+813,SNNP,ET070510,Churso,Urban
+814,SNNP,ET070511,Gedeb Town,Urban
+815,SNNP,ET070512,Yirgachefe Town,Dense Urban
+816,SNNP,ET070601,Boloso Sore,Urban
+817,SNNP,ET070602,Damot Gale,Urban
+818,SNNP,ET070603,Damot Weydie,Sub-Urban
+819,SNNP,ET070604,Humbo,Rural
+820,SNNP,ET070605,Sodo Zuria,Sub-Urban
+821,SNNP,ET070606,Kindo Koyesha,Sub-Urban
+822,SNNP,ET070607,Ofa,Sub-Urban
+823,SNNP,ET070608,Boloso Bombe,Sub-Urban
+824,SNNP,ET070609,Damot Sore,Urban
+825,SNNP,ET070610,Kindo Dida,Sub-Urban
+826,SNNP,ET070611,Damot Pulasa,Urban
+827,SNNP,ET070612,Diguna Fango,Sub-Urban
+828,SNNP,ET070613,Sodo Town,Dense Urban
+829,SNNP,ET070614,Areka Town,Dense Urban
+830,SNNP,ET070615,Boditi Town,Dense Urban
+831,SNNP,ET070616,Tebela Town,Dense Urban
+832,SNNP,ET070617,Gesuba Town,Urban
+833,SNNP,ET070618,Gununo Town,Dense Urban
+834,SNNP,ET070619,Yebeklo Segno,Sub-Urban
+835,SNNP,ET070701,Selamgo,Deep Rural
+836,SNNP,ET070702,South Ari (Bako Gazer),Rural
+837,SNNP,ET070703,Gelila / North Ari,Sub-Urban
+838,SNNP,ET070704,Hamer,Deep Rural
+839,SNNP,ET070705,Bena Tsemay,Deep Rural
+840,SNNP,ET070706,Dasenech (Kuraz),Deep Rural
+841,SNNP,ET070707,Male,Deep Rural
+842,SNNP,ET070708,Gnangatom,Deep Rural
+843,SNNP,ET070709,Jinka Town Admin,Dense Urban
+844,SNNP,ET070801,Masha,Deep Rural
+845,SNNP,ET070802,Anderacha,Deep Rural
+846,SNNP,ET070803,Yeki,Sub-Urban
+847,SNNP,ET070804,Tepi Town,Dense Urban
+848,SNNP,ET070805,Masha Town,Dense Urban
+849,SNNP,ET070901,Sayilem,Deep Rural
+850,SNNP,ET070902,Gesha (Deka),Rural
+851,SNNP,ET070903,Gewata,Rural
+852,SNNP,ET070904,Gimbo,Rural
+853,SNNP,ET070905,Menjiwo,Rural
+854,SNNP,ET070906,Tulo (SNNP),Rural
+855,SNNP,ET070907,Cheta,Deep Rural
+856,SNNP,ET070908,Decha,Deep Rural
+857,SNNP,ET070909,Chena,Deep Rural
+858,SNNP,ET070910,Bita (Big),Deep Rural
+859,SNNP,ET070911,Bonga Town,Dense Urban
+860,SNNP,ET070912,Goba,Deep Rural
+861,SNNP,ET070913,Shisho Ande,Rural
+862,SNNP,ET071003,Selamber Town Admin,Dense Urban
+863,SNNP,ET071004,Boreda,Rural
+864,SNNP,ET071005,Mirab Abaya,Rural
+865,SNNP,ET071006,Chencha Zuriya,Sub-Urban
+866,SNNP,ET071007,Ezo /Kogota/,Sub-Urban
+867,SNNP,ET071008,Dita,Sub-Urban
+868,SNNP,ET071009,Daramalo,Sub-Urban
+869,SNNP,ET071010,Chencha,Dense Urban
+870,SNNP,ET071011,Kemba,Rural
+871,SNNP,ET071012,Kemba Town,Dense Urban
+872,SNNP,ET071013,Gerese,Sub-Urban
+873,SNNP,ET071014,Bonke,Sub-Urban
+874,SNNP,ET071015,Arba Minch Zuria,Deep Rural
+875,SNNP,ET071016,Gacho Baba,Rural
+876,SNNP,ET071017,Kucha Alpha,Rural
+877,SNNP,ET071018,Garda Marta,Rural
+878,SNNP,ET071019,Kucha,Rural
+879,SNNP,ET071021,Arba Minch Town,Dense Urban
+880,SNNP,ET071101,Sheka,Rural
+881,SNNP,ET071102,Gurafereda,Deep Rural
+882,SNNP,ET071103,Debub Bench,Sub-Urban
+883,SNNP,ET071104,Shewa Bench,Sub-Urban
+884,SNNP,ET071105,Semen Bench,Sub-Urban
+885,SNNP,ET071106,Gidi Bench,Sub-Urban
+886,SNNP,ET071107,Mizan Aman Town,Dense Urban
+887,SNNP,ET071205,Alle Special,Rural
+888,SNNP,ET071301,Karat Town,Dense Urban
+889,SNNP,ET071302,Segen Zuria,Sub-Urban
+890,SNNP,ET071303,Kena /Karat Zuria,Rural
+891,SNNP,ET071401,Kulito Town,Dense Urban
+892,SNNP,ET071402,Halaba SP Woreda,Urban
+893,SNNP,ET071403,Atote Ulo,Urban
+894,SNNP,ET071404,Wera Djo,Urban
+895,SNNP,ET071501,Melekoza,Rural
+896,SNNP,ET071502,Denibu Gofa,Rural
+897,SNNP,ET071503,Zala,Rural
+898,SNNP,ET071504,Ouba Debretsehaye,Rural
+899,SNNP,ET071505,Geze Gofa,Rural
+900,SNNP,ET071506,Ayida,Sub-Urban
+901,SNNP,ET071507,Sawla Town,Dense Urban
+902,SNNP,ET071508,Bulike Town Admin,Urban
+903,SNNP,ET071601,Basketo SP Woreda,Rural
+904,SNNP,ET071701,Tocha,Rural
+905,SNNP,ET071702,Mareka,Sub-Urban
+906,SNNP,ET071703,Lome (SNNP),Rural
+907,SNNP,ET071704,Gena,Rural
+908,SNNP,ET071705,Esira,Deep Rural
+909,SNNP,ET071706,Kache,Rural
+910,SNNP,ET071707,Tercha Zuriya,Sub-Urban
+911,SNNP,ET071708,Mari Mansa,Sub-Urban
+912,SNNP,ET071709,Disa,Rural
+913,SNNP,ET071710,Zabagazo,Deep Rural
+914,SNNP,ET071711,Tercha Town,Dense Urban
+915,SNNP,ET071801,Gachit,Rural
+916,SNNP,ET071802,Menit Goldiye,Deep Rural
+917,SNNP,ET071803,Gori Gesha,Deep Rural
+918,SNNP,ET071804,Menit Shasha,Deep Rural
+919,SNNP,ET071805,Bero,Deep Rural
+920,SNNP,ET071806,Surma,Deep Rural
+921,SNNP,ET071807,Maji,Deep Rural
+922,SNNP,ET071901,Ela (Konta) SP Woreda,Deep Rural
+923,SNNP,ET072001,Alicho Woriro,Sub-Urban
+924,SNNP,ET072002,Silti,Sub-Urban
+925,SNNP,ET072003,Lanfero,Sub-Urban
+926,SNNP,ET072004,Mierab Azenet Berbere,Urban
+927,SNNP,ET072005,Dalocha,Sub-Urban
+928,SNNP,ET072006,Sankura,Sub-Urban
+929,SNNP,ET072007,Misrak Azenet Berbere,Sub-Urban
+930,SNNP,ET072008,Wilbareg,Rural
+931,SNNP,ET072009,Tora city administration,Dense Urban
+932,SNNP,ET072010,Worabe Town,Dense Urban
+933,SNNP,ET072102,Amaro,Rural
+934,SNNP,ET072203,Burji Special,Deep Rural
+935,SNNP,ET072304,Derashe Special,Rural
+936,SNNP,ET072401,Yem SP Woreda,Rural
+937,Gambela,ET120101,Akobo,Deep Rural
+938,Gambela,ET120102,Lare,Deep Rural
+939,Gambela,ET120103,Jikawo,Deep Rural
+940,Gambela,ET120104,Wantawo,Deep Rural
+941,Gambela,ET120105,Makuey,Deep Rural
+942,Gambela,ET120200,Gambela National Park,Deep Rural
+943,Gambela,ET120201,Abobo,Deep Rural
+944,Gambela,ET120202,Gambela Zuria,Deep Rural
+945,Gambela,ET120203,Gog,Deep Rural
+946,Gambela,ET120204,Jore,Deep Rural
+947,Gambela,ET120205,Dima,Deep Rural
+948,Gambela,ET120206,Gambella Town,Dense Urban
+949,Gambela,ET120301,Godere,Deep Rural
+950,Gambela,ET120308,Mengesh,Deep Rural
+951,Gambela,ET120407,Itang,Deep Rural
+952,Harari,ET130101,Sofi,Deep Rural
+953,Harari,ET130102,Shenkor,Deep Rural
+954,Harari,ET130103,Jinela,Rural
+955,Harari,ET130104,Hakim,Deep Rural
+956,Harari,ET130105,Erer (Harari),Dense Urban
+957,Harari,ET130106,Dire Teyara,Rural
+958,Harari,ET130107,Amir Nur,Deep Rural
+959,Harari,ET130108,Aboker,Rural
+960,Harari,ET130109,Abadir,Dense Urban
+961,Addis Ababa,ET140101,Akaki - Kalit,Dense Urban
+962,Addis Ababa,ET140102,Nefas Silk,Dense Urban
+963,Addis Ababa,ET140103,Kolfe - Keran,Dense Urban
+964,Addis Ababa,ET140104,Bole,Dense Urban
+965,Addis Ababa,ET140105,Lideta,Dense Urban
+966,Addis Ababa,ET140106,Kirkos,Dense Urban
+967,Addis Ababa,ET140107,Yeka,Dense Urban
+968,Addis Ababa,ET140108,Addis Ketema,Dense Urban
+969,Addis Ababa,ET140109,Arada,Dense Urban
+970,Addis Ababa,ET140110,Gulele,Dense Urban
+971,Dire Dawa,ET150103,Sabian,Dense Urban
+972,Dire Dawa,ET150104,Malka Jabti (M/jebdu),Urban
+973,Dire Dawa,ET150105,Legehare,Dense Urban
+974,Dire Dawa,ET150109,Addis Ketema (Dire Dawa),Dense Urban
+975,Dire Dawa,ET150110,Gende Kore,Dense Urban
+976,Dire Dawa,ET150111,Dechatu,Dense Urban
+977,Dire Dawa,ET150112,Hafat Issa,Dense Urban
+978,Dire Dawa,ET150113,Kazira,Urban
+979,Dire Dawa,ET150114,Police Maret,Urban
+980,Dire Dawa,ET150201,Aseliso,Urban
+981,Dire Dawa,ET150206,Jeldessa,Rural
+982,Dire Dawa,ET150207,Wahil,Rural
+983,Dire Dawa,ET150208,Biyoawale,Rural
